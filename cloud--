@@ -1,0 +1,6 @@
+Cloud Deployment Models
+
+    Private Cloud: The cloud infrastructure is operated solely for a single organization. It can be managed internally or by a third party and can exist on-premise or off-premise. It offers the highest level of security and control.
+    Public Cloud: The cloud infrastructure is owned and operated by a third-party cloud service provider (like AWS or Google) and is made available to the general public over the internet. It offers massive scalability and a pay-as-you-go model.
+    Hybrid Cloud: This model combines a private cloud with one or more public clouds, allowing data and applications to be shared between them. This offers flexibility, allowing companies to keep sensitive data on a private cloud while leveraging the scalable resources of a public cloud for other applications.
+    Multi-Cloud: A strategy where an organization uses a combination of clouds from two or more different public cloud providers. This helps avoid vendor lock-in and allows a company to use the "best-of-breed" service from each provider.
