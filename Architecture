@@ -1,0 +1,19 @@
+Cloud Computing Architecture
+
+Cloud computing architecture refers to the components and sub-components required for cloud computing. These components typically refer to:
+
+    Front end ( Fat client, Thin client)
+    Back-end platforms ( Servers, Storage )
+    Cloud-based delivery and a network ( Internet, Intranet, Intercloud )
+
+cloud_computing_architecture
+Cloud Computing Architecture
+1. Front End ( User Interaction Enhancement )
+
+The User Interface of Cloud Computing consists of 2 sections of clients. The Thin clients are the ones that use web browsers facilitating portable and lightweight accessibilities and others are known as Fat Clients that use many functionalities for offering a strong user experience.
+2. Back-end Platforms ( Cloud Computing Engine )
+
+The core of cloud computing is made at back-end platforms with several servers for storage and processing computing. Management of Applications logic is managed through servers and effective data handling is provided by storage. The combination of these platforms at the backend offers the processing power, and capacity to manage and store data behind the cloud.
+3. Cloud-Based Delivery and Network
+
+On-demand access to the computer and resources is provided over the Internet, Intranet, and Intercloud. The Internet comes with global accessibility, the Intranet helps in internal communications of the services within the organization and the Intercloud enables interoperability across various cloud services. This dynamic network connectivity ensures an essential component of cloud computing architecture on guaranteeing easy access and data transfer.
