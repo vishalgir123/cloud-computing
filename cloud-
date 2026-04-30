@@ -1,0 +1,46 @@
+Types of Cloud Computing Services
+
+The following are the types of Cloud Computing:
+types_of_cloud_computing
+Types Of Cloud Computing Services
+1. Infrastructure as a Service ( IaaS )
+
+Infrastructure as a Service (IaaS) is a type of cloud computing that gives people access to IT tools like virtual computers, storage, and networks through the internet. You don’t need to buy or manage physical hardware. Instead, you pay only for what you use.
+Benefits of using IaaS
+
+    Flexibility and Control: IaaS comes up with providing virtualized computing resources such as VMs, Storage, and networks facilitating users with control over the Operating system and applications.
+    Reducing Expenses of Hardware: IaaS provides business cost savings with the elimination of physical infrastructure investments making it cost-effective.
+    Scalability of Resources: The cloud provides in scaling of hardware resources up or down as per demand facilitating optimal performance with cost efficiency.
+
+2. Platform as a Service ( PaaS )
+
+Platform as a Service (PaaS) is a cloud computing model where a third-party provider offers the software and hardware tools needed to develop, test, and run applications. This allows users to focus on building their applications without worrying about managing servers or infrastructure.
+
+For example, AWS Elastic Beanstalk is a PaaS offered by Amazon Web Services that helps developers quickly deploy and manage applications while AWS takes care of the needed resources like servers, load balancing, and scaling.
+Benefits of using PaaS
+
+    Simplifying the Development: Platform as a Service offers application development by keeping the underlying Infrastructure as an Abstraction. It helps the developers to completely focus on application logic ( Code ) and background operations are completely managed by the AWS platform.
+    Enhancing Efficiency and Productivity: PaaS lowers the Management of Infrastructure complexity, speeding up the Execution time and bringing the updates quickly to market by streamlining the development process.
+    Automation of Scaling: Management of resource scaling, guaranteeing the program's workload efficiency is ensured by PaaS.
+
+3. Software as a Service (SaaS)
+
+Software as a Service (SaaS) is a way of using software over the internet instead of installing it on your computer. The software is hosted by a company, and you can use it just by logging in through a web browser. You don’t need to worry about updates, maintenance, or storage the provider takes care of all that.
+
+A common example is Google Docs. You can write and share documents online without downloading any software.
+Benefits of using SaaS
+
+    Collaboration And Accessibility: Software as a Service (SaaS) helps users to easily access applications without having the requirement of local installations. It is fully managed by the AWS Software working as a service over the internet encouraging effortless cooperation and ease of access.
+    Automation of Updates: SaaS providers manage the handling of software maintenance with automatic latest updates ensuring users gain experience with the latest features and security patches.
+    Cost Efficiency: SaaS acts as a cost-effective solution by reducing the overhead of IT support by eliminating the need for individual software licenses.
+
+4. Function as a Service (FaaS)
+
+Function as a service (FaaS) is a cloud-computing service that allows customers to run code in response to events, without managing the complex infrastructure. You just write the code, upload it and the cloud provider runs it only when it's needed. You pay only for the time your code runs.
+
+For example, with AWS Lambda, you can write a function that resizes images whenever someone uploads a photo to your website. You don’t need to keep a server running all the time AWS runs your function only when a photo is uploaded.
+Benefits of using SaaS
+
+    Event-Driven Execution: FaaS helps in the maintenance of servers and infrastructure making users worry about it. FaaS facilitates the developers to run code as a response to the events.
+    Cost Efficiency: FaaS facilitates cost efficiency by coming up with the principle "Pay as per you Run" for the computing resources used.
+    Scalability and Agility: Serverless Architectures scale effortlessly in handing the workloads promoting agility in development and deployment.
