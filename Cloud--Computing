@@ -1,0 +1,82 @@
+Top Leading Cloud Computing Companies
+
+The following tables show the top leading cloud computing companies along with key details about their cloud services:
+
+Company
+	
+
+Cloud Service Name
+	
+
+Key Offerings
+
+1. Amazon
+	
+
+AWS (Amazon Web Services)
+	
+
+Compute, Storage, AI/ML, Databases, Networking
+
+2. Microsoft
+	
+
+Azure
+	
+
+Cloud computing, AI, Analytics, Hybrid Cloud
+
+3. Google
+	
+
+Google Cloud Platform (GCP)
+	
+
+AI/ML, Big Data, Kubernetes, Cloud Storage
+
+4. Alibaba
+	
+
+Alibaba Cloud
+	
+
+IaaS, AI, Big Data, Cloud Security, CDN
+
+5. Oracle
+	
+
+Oracle Cloud
+	
+
+Enterprise Cloud, Databases, SaaS, PaaS
+
+6. IBM
+	
+
+IBM Cloud
+	
+
+AI, Quantum Computing, Hybrid Cloud, Security
+
+7. Salesforce
+	
+
+Salesforce Cloud
+	
+
+CRM, SaaS, AI, Analytics
+
+8. Tencent
+	
+
+Tencent Cloud
+	
+
+AI, Gaming Cloud, IoT, Big Data
+Cloud Security
+
+Cloud security recommended to measures and practices designed to protect data, applications, and infrastructure in cloud computing environments. The following are some of the best practices of cloud security:
+
+    Data Encryption: Encryption is essential for securing data stored in the cloud. It ensures that data remains unreadable to unauthorized users even if it is intercepted.
+    Access Control: Implementing strict access controls and authentication mechanisms helps ensure that only authorized users can access sensitive data and resources in the cloud.
+    Multi-Factor Authentication (MFA): MFA adds an extra layer of security by requiring users to provide multiple forms of verification, such as passwords, biometrics, or security tokens, before gaining access to cloud services.
